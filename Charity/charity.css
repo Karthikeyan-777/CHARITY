@@ -1,0 +1,572 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0; 
+}
+header{
+    background-color: rgb(243, 189, 119);
+    height: 50px;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 20px;
+    
+   
+   
+}
+.mail{
+    margin-right: 10px;
+    margin-top: 4px;
+    font-size: 20px;
+}
+.ph{
+    margin-top: 5px;
+    margin-left: 25px;
+    font-size: 20px;
+}
+.p1:hover{
+    color: rgb(148, 6, 6);
+}
+.no{
+    padding-left: 10px;
+    margin-bottom: 40px;
+   }
+.fa{
+    margin-left: 640px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.twi{
+    margin-left: 40px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.ins{
+    margin-left: 40px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.hed{
+    background-color: white;
+    height: 90px;
+    display: flex;
+   
+    margin-bottom: 0px;
+    
+}
+.hand{
+    font-size: 60px;
+    color: rgb(243, 189, 119);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.p2{
+    margin-left: 200px;
+    margin-top: 10px;
+   
+}
+.but1{
+    height: 50px;
+    width: 140px;
+    background-color:  rgb(243, 189, 119);
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+
+}
+.but1:hover{
+    background-color: rgb(189, 63, 88);
+}
+.child1{
+    background-image: url(chari1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 1350px;
+}
+.child2{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding-top: 120px;
+}
+.but2{
+    height: 50px;
+    width: 140px;
+    background-color:  rgb(245, 178, 90);
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    
+}
+.but2:hover{
+    background-color: rgb(255, 35, 35);
+}
+.hed1{
+    background-color:white;
+    position: absolute;
+    top:  550px;
+}
+.hed2{
+    background-color: white;
+     display: flex;
+     width: 1200px;
+     height: 260px;
+     position: absolute;
+     margin-left: 75px;
+     box-shadow: 1px 1px 10px black;
+
+}
+.hed3{
+    width: 400px;
+    margin-left: 80px;
+}
+.hed4{
+    width: 400px;
+    
+
+}
+.hed5{
+    width: 400px;
+    margin-left: 30px;
+}
+.doller1{
+    font-size: 50px;
+    color:  rgb(243, 189, 119);
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.doller2{
+    font-size: 50px;
+    color:  rgb(243, 189, 119);
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+}
+.shirt{
+    font-size: 50px;
+    color:  rgb(243, 189, 119);
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+}
+.parent1{
+    background-color: rgb(235, 235, 235);
+    margin-top: 200px;
+    height: 900px;
+}
+.one1{
+    text-align: center;
+    padding-top: 50px;
+   
+}
+.one2{
+    margin-top: 60px;
+    display: flex;
+}
+.one3{
+    margin-left: 85px;
+   display: grid;
+    
+}
+.one4{
+   
+    background-color: white;
+    height: 300px;
+    width: 350px;
+    border: 1px dashed rgb(187, 187, 187);
+    text-align: center;
+   
+}
+.one5{
+    color: rgb(243, 189, 119);
+    font-size: 23px;
+}
+.one6{
+    margin-left: 70px;
+    display: grid;
+   
+}
+.one7{
+    background-color: white;
+    height: 300px;
+    width: 350px;
+    border: 1px dashed rgb(187, 187, 187);
+    text-align: center;
+}
+.one8{
+
+    margin-left: 70px;
+    display: grid;
+}
+.one9{
+    background-color: white;
+    height: 300px;
+    width: 350px;
+    border: 1px dashed rgb(187, 187, 187);
+    text-align: center;
+}
+.two{
+    background-color: white;
+    height: 600px;
+    display: flex;
+    margin-top: 70px;
+
+}
+.two1{
+    background-color:  rgb(235, 235, 235);
+    height: 515px;
+    width: 350px;
+    margin-left: 85px;
+    border: 1px dashed rgb(187, 187, 187);
+    justify-content: center;
+   
+}
+.two2{
+   
+    position: absolute;
+    width: 200px;
+    height: 200px; 
+    overflow: hidden;
+    border-radius: 50%;
+}
+.two3{
+   margin-left: 70px;
+   padding-top: 30px;
+}
+.two4{
+    padding-top: 210px;
+    text-align: center;
+
+}
+.sig{
+    height: 80px;
+    width: 200px; 
+    
+}
+.two5{
+    height: 300px;
+    width: 350px;
+    margin-left: 70px;
+
+}
+.two8{
+    margin-left: 70px;
+    height: 300px;
+    width: 350px;
+}
+.three{
+    background-image: url(children8.jpg);
+    background-size: cover;
+    height: 600px;
+    width: 1350px;
+    display: flex;
+    
+}
+.three1{
+    height: 400px;
+    width: 500px;
+    margin-left: 80px;
+    padding-top: 70px;
+    color: white;
+    
+}
+.three2{
+    margin-top: 130px;
+    margin-left: 100px;
+}
+.four{
+    background-color: white;
+    height: 800px;
+
+}
+.four1{
+    text-align: center;
+    margin-top: 40px;
+}
+.container {
+    display: flex;
+    padding: 50px;
+}
+.content1{
+    margin-top: 10px;
+}
+
+.images {
+    display: flex;
+    flex-direction: column;
+    margin-right: 80px;
+}
+
+.row {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.row img {
+    width: 300px;  
+    height: 250px;
+    object-fit: fill; 
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.row img:last-child {
+    margin-right: 0;
+}
+
+.content {
+    flex: 1;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.check{
+    font-size: 24px;
+    color:  rgb(243, 189, 119);
+}
+.five{
+    background-image: url(five5.jpg);
+    height: 500px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.five1{
+    display: flex;
+    padding-top: 160px;
+}
+.font{
+    font-size: 40px;
+    color: white;
+    margin-left: 40px;
+}
+.five2{
+    color: white;
+}
+.five3{
+    color:  rgb(243, 189, 119);
+    font-size: 60px;
+}
+.five4{
+    margin-left: 150px;
+}
+.six{
+    background-color: rgb(235, 235, 235);
+    height: 600px;
+   
+}
+.six1{
+    text-align: center;
+    padding-top: 30px;
+}
+.six2{
+    
+    display: flex;
+}
+.six3{
+    height: 330px;
+    width: 290px;
+    margin-left: 84px;
+}
+.six4{
+    height: 330px;
+    width: 290px;
+    background-color: white;
+    border: 1px dashed  rgb(187, 187, 187);
+    text-align: center;
+
+}
+.min{
+    color: rgb(243, 189, 119);
+}
+.six5{
+    display: flex;
+}
+.six6{
+    height: 330px;
+    width: 290px;
+    margin-left: 30px;
+}
+.six11{
+    display: flex;
+    margin-top: 50px;
+}
+.seven{
+    height: 510px;
+    background-color: white;
+   
+}
+.seven1{
+    text-align: center;
+    margin-top: 30px;
+}
+.seven11{
+    display: flex;
+    margin-top: 50px;
+}
+.seven2{
+    height: 230px;
+    width: 330px;
+    background-color:  rgb(235, 235, 235);
+    padding: 20px;
+    margin-left: 75px;
+}
+
+.radius{
+    position: absolute;
+    width: 100px;
+    height: 100px; 
+    overflow: hidden;
+    border-radius: 50%;
+}
+.seven4{
+  display: grid; 
+  
+}
+.seven5{
+   margin-left: 120px;
+   margin-top: 25px;
+}
+.seven11{
+    display: flex;
+}
+.seven22{
+    height: 230px;
+    width: 330px;
+    background-color:  rgb(235, 235, 235);
+    padding: 20px;
+    margin-left: 50px;
+}
+.seven44{
+    display: grid;
+}
+.seven222{
+    height: 230px;
+    width: 330px;
+    background-color:  rgb(235, 235, 235);
+    padding: 20px;
+    margin-left: 50px;
+}
+.seven444{
+    display: grid;
+}
+.eight{
+    background-color:  rgb(235, 235, 235);
+    height: 780px;
+}
+.eight1{
+    text-align: center;
+    padding-top: 30px;
+}
+.eight2{
+    display: flex;
+    padding-top: 60px;
+}
+.eight3{
+    display: grid;
+    margin-left: 110px;
+}
+.eight4{
+    height: 210px;
+    width: 350px;
+}
+.eight5{
+    background-color: white;
+    width: 328px;
+    height: 270px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border: 1px dashed  rgb(187, 187, 187);
+}
+.eight6{
+    display: grid;
+    margin-left: 50px;
+}
+.eight7{
+    display: grid;
+    margin-left: 50px;
+}
+.nine{
+    background-color: black;
+    height: 460px;
+}
+.nine11{
+    padding-top: 70px;
+    padding-left: 30px;
+    display: flex;
+}
+.nine1{
+    display: flex;
+}
+.hand1{
+    font-size: 60px;
+    color: rgb(243, 189, 119);
+    margin-left: 50px;
+    height: 40px;
+    
+}
+.nine1{
+    color: white;
+    height: 300px;
+    width: 410px;
+    
+   
+}
+.nine5{
+ padding-top: 10px;  
+}
+.nine6{
+    display: flex;
+
+}
+.twit{
+    margin-left: 30px;
+}
+.insta{
+    margin-left: 30px;
+}
+.nine7{
+   color: gray;
+    height: 300px;
+    width: 410px;
+    margin-left: 20px;
+}
+.gr{
+    color: gray;
+}
+.white{
+    color: white;
+}
+.nine9{
+    color: gray;
+    height: 300px;
+    width: 410px;
+    margin-left: 20px;
+}
+.ma{
+    font-size: 20px;
+    color: rgb(243, 189, 119);
+}
+.mo{
+    font-size: 20px;
+    color: rgb(243, 189, 119);
+}
+.ten2{
+    color: gray;
+    margin-top: 25px;
+    display: flex;
+   
+}
+.ten3{
+    margin-left: 60px;
+}
+.ten4{
+    margin-left: 550px;
+}
+.ten5{
+    margin-left: 50px;
+}
+.ten6{
+    margin-left: 50px;
+}
